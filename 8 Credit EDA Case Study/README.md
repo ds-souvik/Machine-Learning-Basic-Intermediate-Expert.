@@ -5,7 +5,7 @@
 2. application_data.zip: Zip file containing the application_data.csv.
 3. previous_application.zip: Zip file containing the previous_application.zip
 
-#### If you found this assignment insightful or if it helped you in some way, do give me a star. You can check other repositories I have created or follow my github profile for more such projects.
+#### <sont color='brown'>If you found this assignment insightful or if it helped you in some way, do give me a star. You can check other repositories I have created or follow my github profile for more such projects.</font>
 
 ### Introduction
 This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
