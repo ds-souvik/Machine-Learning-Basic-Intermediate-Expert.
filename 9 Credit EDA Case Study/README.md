@@ -1,7 +1,8 @@
 # 8 Credit EDA Case Study.
 
 #### Files you will find here:
-1. Various versions of ipynb- The highest version is the most recent one.
+1. Click [here](https://github.com/ds-souvik/Machine-Learning-Basic-Intermediate-Expert./blob/master/9%20Credit%20EDA%20Case%20Study/Credit%20EDA%20Case%20Study.ipynb) to view the EDA notebook.
+2. Click [here](https://github.com/ds-souvik/Machine-Learning-Basic-Intermediate-Expert./blob/master/9%20Credit%20EDA%20Case%20Study/EDA%20Case%20study%20Credit.pptx) for the business presentation.
 2. application_data.zip: Zip file containing the application_data.csv.
 3. previous_application.zip: Zip file containing the previous_application.zip
 
