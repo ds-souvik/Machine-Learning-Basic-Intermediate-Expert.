@@ -1,6 +1,6 @@
 # <center> `HELP International Humanitarian NGO.`</center>
 
-![image info](./concern-ethiopia-poverty-list-1280x800.jpg)
+![image info](https://github.com/ds-souvik/Machine-Learning-Basic-Intermediate-Expert./blob/master/14%20Clustering-HELP%20International%20Humanitarian%20NGO/static/img/concern-ethiopia-poverty-list-1280x800.jpg)
 
 # <center> `Business Problem.`</center>
 
