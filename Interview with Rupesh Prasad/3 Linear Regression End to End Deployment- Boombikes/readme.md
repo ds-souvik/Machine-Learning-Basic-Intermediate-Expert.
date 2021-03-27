@@ -10,12 +10,12 @@
 
 <center><h3 align="center">Below is the preview of the application home-page.</h3></center>
 <div align="center">
-    <img src="/static/img/homepage.jpg" width="400px"/>
+    <img src="https://github.com/ds-souvik/Machine-Learning-Basic-Intermediate-Expert./blob/master/Interview%20with%20Rupesh%20Prasad/3%20Linear%20Regression%20End%20to%20End%20Deployment-%20Boombikes/static/img/homepage.jpg" width="400px"/>
 </div>
 
 <center><h3 align="center">Below is the preview of the prediction page</h3></center>
 <div align="center">
-	<img src="/static/img/prediction.jpg" width="400px"/>
+	<img src="https://github.com/ds-souvik/Machine-Learning-Basic-Intermediate-Expert./blob/master/Interview%20with%20Rupesh%20Prasad/3%20Linear%20Regression%20End%20to%20End%20Deployment-%20Boombikes/static/img/prediction.jpg" width="400px"/>
 </div>
 
 
